@@ -1,5 +1,5 @@
 
-# __S.A.E Accompagner les utilisateurs : La carte scolaire__
+# __ODU : La carte scolaire__
 
 ## Résultats du projet
 
